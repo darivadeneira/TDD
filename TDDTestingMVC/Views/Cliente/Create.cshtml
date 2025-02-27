@@ -1,0 +1,108 @@
+﻿@model TDDTestingMVC.Data.Cliente
+
+@{
+    ViewData["Title"] = "Crear Cliente";
+}
+
+<h2>Crear Cliente</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Cedula" class="control-label"></label>
+        <input asp-for="Cedula" class="form-control" pattern="\d{10}" required oninput="validateCedula(this)" />
+        <span asp-validation-for="Cedula" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Nombres" class="control-label"></label>
+        <input asp-for="Nombres" class="form-control" required />
+        <span asp-validation-for="Nombres" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Apellidos" class="control-label"></label>
+        <input asp-for="Apellidos" class="form-control" required />
+        <span asp-validation-for="Apellidos" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="FechaNacimiento" class="control-label"></label>
+        <input asp-for="FechaNacimiento" class="form-control" type="date" min="1940-01-01" max="@DateTime.Now.ToString("yyyy-MM-dd")" required />
+        <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Mail"></label>
+        <input asp-for="Mail" id="mail" class="form-control" type="email" required />
+        <span id="mailError" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Telefono" class="control-label"></label>
+        <input asp-for="Telefono" class="form-control" pattern="\d{10}" required />
+        <span asp-validation-for="Telefono" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Direccion" class="control-label"></label>
+        <input asp-for="Direccion" class="form-control" required />
+        <span asp-validation-for="Direccion" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Estado" class="control-label"></label>
+        <select asp-for="Estado" class="form-control" required>
+            <option value="true">Activo</option>
+            <option value="false">Inactivo</option>
+        </select>
+        <span asp-validation-for="Estado" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Guardar" id="btnSubmit" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>
+
+@section Scripts {
+    <script>
+        function validateCedula(input) {
+            const cedula = input.value;
+            let total = 0;
+            let longitud = cedula.length;
+            let longcheck = longitud - 1;
+
+            if (cedula !== "" && longitud === 10) {
+                for (i = 0; i < longcheck; i++) {
+                    if (i % 2 === 0) {
+                        var aux = cedula.charAt(i) * 2;
+                        if (aux > 9) aux -= 9;
+                        total += aux;
+                    } else {
+                        total += parseInt(cedula.charAt(i));
+                    }
+                }
+
+                total = total % 10 ? 10 - total % 10 : 0;
+
+                if (cedula.charAt(longitud - 1) == total) {
+                    input.setCustomValidity('');
+                } else {
+                    input.setCustomValidity('Cédula inválida');
+                }
+            } else {
+                input.setCustomValidity('Cédula inválida');
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+            const mailInput = document.getElementById("mail");
+            const mailError = document.getElementById("mailError");
+                mailInput.addEventListener("input", function () {
+                const emailPattern = /^[a-z0-9._%+-]+@@[a-z0-9.-]+\.[a-z]{2,}$/;
+                if (!emailPattern.test(mailInput.value)) {
+                    mailError.textContent = "Ingrese un correo válido (ejemplo: usuario@dominio.com)";
+                    mailInput.setCustomValidity("Correo inválido");
+                } else {
+                    mailError.textContent = "";
+                    mailInput.setCustomValidity("");
+                }
+            });
+        });
+    </script>
+}

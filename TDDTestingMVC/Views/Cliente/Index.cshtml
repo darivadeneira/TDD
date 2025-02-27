@@ -1,0 +1,60 @@
+﻿@model IEnumerable<TDDTestingMVC.Data.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Clientes</h2>
+<div class="card" style="width:100%;">
+    <div class="card-body">
+        <h5 class="card-title">Lista de clientes</h5>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Codigo)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Cedula)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Nombres)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Apellidos)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.FechaNacimiento)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Mail)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Telefono)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Direccion)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Estado)</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Codigo)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Cedula)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Apellidos)</td>
+                        <td>@Html.DisplayFor(modelItem => item.FechaNacimiento)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Mail)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                        <td>
+                            <a class="btn btn-secondary" id="btnEditar" asp-action="Edit" asp-route-id="@item.Codigo">
+                                <i class="bi bi-pencil"></i> Editar
+                            </a>
+                            <form asp-action="Delete" asp-route-id="@item.Codigo" method="post" onsubmit="return confirm('¿Estás seguro de eliminar este cliente?');" style="display:inline;">
+                                <button type="submit" class="btn btn-danger" id="btnDelete">
+                                    <i class="bi bi-trash"></i> Eliminar
+                                </button>
+                            </form>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-center">
+            <a class="btn btn-primary" asp-action="Create">
+                <i class="bi bi-person-add"></i> Crear Cliente
+            </a>
+        </div>
+    </div>
+</div>
