@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|c:\\users\\ariel\\source\\repos\\tddtestingmvc\\reqnrolltestproject1\\stepdefinitions\\sm001_3stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|solutionrelative:reqnrolltestproject1\\stepdefinitions\\sm001_3stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|c:\\users\\ariel\\source\\repos\\tddtestingmvc\\reqnrolltestproject1\\stepdefinitions\\um001_1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|solutionrelative:reqnrolltestproject1\\stepdefinitions\\um001_1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|c:\\users\\ariel\\source\\repos\\tddtestingmvc\\reqnrolltestproject1\\stepdefinitions\\sm001_2stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|solutionrelative:reqnrolltestproject1\\stepdefinitions\\sm001_2stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|c:\\users\\ariel\\source\\repos\\tddtestingmvc\\reqnrolltestproject1\\features\\sm001_3.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|solutionrelative:reqnrolltestproject1\\features\\sm001_3.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|c:\\users\\ariel\\source\\repos\\tddtestingmvc\\reqnrolltestproject1\\features\\sm001_2.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|solutionrelative:reqnrolltestproject1\\features\\sm001_2.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|c:\\users\\ariel\\source\\repos\\tddtestingmvc\\reqnrolltestproject1\\features\\um001_1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|solutionrelative:reqnrolltestproject1\\features\\um001_1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|c:\\users\\ariel\\source\\repos\\tddtestingmvc\\reqnrolltestproject1\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3768F84B-D7E4-4194-A6DF-4E7F9283EEB5}|ReqnrollTestProject1\\ReqnrollTestProject1.csproj|solutionrelative:reqnrolltestproject1\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,43 +61,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SM001_3StepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\StepDefinitions\\SM001_3StepDefinitions.cs",
-              "RelativeDocumentMoniker": "ReqnrollTestProject1\\StepDefinitions\\SM001_3StepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\StepDefinitions\\SM001_3StepDefinitions.cs",
-              "RelativeToolTip": "ReqnrollTestProject1\\StepDefinitions\\SM001_3StepDefinitions.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T01:48:34.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SM001_3.feature",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\Features\\SM001_3.feature",
-              "RelativeDocumentMoniker": "ReqnrollTestProject1\\Features\\SM001_3.feature",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\Features\\SM001_3.feature",
-              "RelativeToolTip": "ReqnrollTestProject1\\Features\\SM001_3.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-02-27T01:44:24.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SM001_2StepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\StepDefinitions\\SM001_2StepDefinitions.cs",
-              "RelativeDocumentMoniker": "ReqnrollTestProject1\\StepDefinitions\\SM001_2StepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\StepDefinitions\\SM001_2StepDefinitions.cs",
-              "RelativeToolTip": "ReqnrollTestProject1\\StepDefinitions\\SM001_2StepDefinitions.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAgwE8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:14:23.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Hooks.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\Hooks\\Hooks.cs",
               "RelativeDocumentMoniker": "ReqnrollTestProject1\\Hooks\\Hooks.cs",
@@ -133,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "ExtentReportsManager.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\Reports\\ExtentReportsManager.cs",
               "RelativeDocumentMoniker": "ReqnrollTestProject1\\Reports\\ExtentReportsManager.cs",
@@ -145,19 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UM001_1StepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\StepDefinitions\\UM001_1StepDefinitions.cs",
-              "RelativeDocumentMoniker": "ReqnrollTestProject1\\StepDefinitions\\UM001_1StepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\StepDefinitions\\UM001_1StepDefinitions.cs",
-              "RelativeToolTip": "ReqnrollTestProject1\\StepDefinitions\\UM001_1StepDefinitions.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:36:27.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "ImplicitUsings.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\ImplicitUsings.cs",
               "RelativeDocumentMoniker": "ReqnrollTestProject1\\ImplicitUsings.cs",
@@ -169,31 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SM001_2.feature",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\Features\\SM001_2.feature",
-              "RelativeDocumentMoniker": "ReqnrollTestProject1\\Features\\SM001_2.feature",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\Features\\SM001_2.feature",
-              "RelativeToolTip": "ReqnrollTestProject1\\Features\\SM001_2.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-02-27T00:07:32.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UM001_1.feature",
-              "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\Features\\UM001_1.feature",
-              "RelativeDocumentMoniker": "ReqnrollTestProject1\\Features\\UM001_1.feature",
-              "ToolTip": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\Features\\UM001_1.feature",
-              "RelativeToolTip": "ReqnrollTestProject1\\Features\\UM001_1.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-02-26T23:00:57.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "TestProducto.csproj",
               "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\TestProducto\\TestProducto.csproj",
               "RelativeDocumentMoniker": "TestProducto\\TestProducto.csproj",
@@ -205,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "SignupStepDefinitions.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\StepDefinitions\\SignupStepDefinitions.cs",
               "RelativeDocumentMoniker": "ReqnrollTestProject1\\StepDefinitions\\SignupStepDefinitions.cs",
@@ -217,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Signup.feature",
               "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\Features\\Signup.feature",
               "RelativeDocumentMoniker": "ReqnrollTestProject1\\Features\\Signup.feature",
@@ -229,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "ClienteDataAccessLayer.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\TDDTestingMVC\\Models\\ClienteDataAccessLayer.cs",
               "RelativeDocumentMoniker": "TDDTestingMVC\\Models\\ClienteDataAccessLayer.cs",
@@ -241,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\TDDTestingMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "TDDTestingMVC\\Models\\ErrorViewModel.cs",
@@ -253,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "LoginStepDefinitions.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\source\\repos\\TDDTestingMVC\\ReqnrollTestProject1\\StepDefinitions\\LoginStepDefinitions.cs",
               "RelativeDocumentMoniker": "ReqnrollTestProject1\\StepDefinitions\\LoginStepDefinitions.cs",
